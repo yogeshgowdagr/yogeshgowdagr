@@ -5,19 +5,19 @@ Linux and DevOps Engineer
 ---------------
 <br>
 
-[![Website](https://img.shields.io/website?label=blogs.q21.in&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.q21.in)
+[![Website](https://img.shields.io/website?label=blogs.q21.in&style=for-the-badge&url=https%3A%2F%2Fblogs.q21.in)](https://blogs.q21.in)
 
 I am a 👨‍💻 **Linux and DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**.
 
 *   🌍  I'm based in Bangalore
-*   🖥️  See my blog at [Profile](http://blogs.q21.in)
+*   🖥️  See my blog at [blogs.Q21.in](http://blogs.q21.in)
 *   ✉️  You can contact me at [abhishek.abvp.as@gmail.com](mailto:yogeshgowda97@gmail.com)
 
 
 ### 📫 How to reach me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gowda-gr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshgowda97@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/GphntxYBnW](https://discord.gg/3D3bjKPTWw)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3D3bjKPTWw)
 
 ### 🔭 I’m currently working on ...
 
