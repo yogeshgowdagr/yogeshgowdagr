@@ -18,6 +18,7 @@ I am a 👨‍💻 **Linux and DevOps Engineer** working with **[Netzary Infodyn
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gowda-gr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshgowda97@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3D3bjKPTWw)
+[![Gmail](https://img.shields.io/badge/Instagram-D14736?style=for-the-badge&logo=instagram&logoColor=white)](mailto:yogeshgowda97@gmail.com)
 
 ### 🔭 I’m currently working on ...
 
