@@ -11,7 +11,7 @@ I am a 👨‍💻 **Linux and DevOps Engineer** working with **[Netzary Infodyn
 
 *   🌍  I'm based in Bangalore
 *   🖥️  See my blog at [blogs.Q21.in](http://blogs.q21.in)
-*   ✉️  You can contact me at [abhishek.abvp.as@gmail.com](mailto:yogeshgowda97@gmail.com)
+*   ✉️  You can contact me at [yogeshgowda97@gmail.com](mailto:yogeshgowda97@gmail.com)
 
 
 ### 📫 How to reach me
