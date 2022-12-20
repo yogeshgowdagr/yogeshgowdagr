@@ -51,6 +51,10 @@ I am a 👨‍💻 **Linux and DevOps Engineer** working with **[Netzary Infodyn
 <a href="#"><img height="32" width="32" src="./images/linux.svg" alt="Linux" title="Linux" /></a>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yogeshgowdagr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yogeshgowdagr&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgowdagr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### :book: Blogs
 
 https://blogs.q21.in/
