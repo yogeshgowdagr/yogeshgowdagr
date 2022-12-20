@@ -25,19 +25,12 @@ I am a 👨‍💻 **Linux and DevOps Engineer** working with **[Netzary Infodyn
 <a href="#"><img height="32" width="32" src="./images/helm.svg" alt="Helm" title="Helm" /></a>
 <a href="#"><img height="32" width="32" src="./images/docker.svg" alt="Docker" title="Docker" /></a>
 <a href="#"><img height="32" width="32" src="./images/linux.svg" alt="Linux" title="Linux" /></a>
-<a href="#"><img height="32" width="32" src="./images/azure.svg" alt="Azure" title="Azure" /></a>
-<a href="#"><img height="32" width="32" src="./images/azuredevops.svg" alt="AzureDevOps" title="AzureDevOps" /></a>
-<a href="#"><img height="32" width="32" src="./images/azurepipelines.svg" alt="AzurePipeline" title="AzurePipeline" /></a>
 <a href="#"><img height="32" width="32" src="./images/git.svg" alt="Git" title="Git" /></a>
 <a href="#"><img height="32" width="32" src="./images/github.svg" alt="Github" title="Github" /></a>
-<a href="#"><img height="32" width="32" src="./images/python.svg" alt="Python" title="Python" /></a>
 <a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="AWS" title="AWS" /></a>
-<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="GCP" title="GCP" /></a>
 <a href="#"><img height="32" width="32" src="./images/prometheus.svg" alt="Prometheus" title="Prometheus" /></a>
 <a href="#"><img height="32" width="32" src="./images/grafana.svg" alt="Grafana" title="Grafana" /></a>
 <a href="#"><img height="32" width="32" src="./images/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" /></a>
-<a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
 
 ### 🌱 I have experience on ...
 
