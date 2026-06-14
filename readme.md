@@ -5,7 +5,7 @@ Linux & DevOps Engineer — I build reliable automation and cloud-native tooling
 
 <br>
 
-[![Blog status](https://img.shields.io/website?label=blogs.q21.in&url=https%3A%2F%2Fblogs.q21.in&style=for-the-badge&cacheSeconds=1800)](https://blogs.q21.in) [![Site status](https://img.shields.io/website?label=yogeshgowdagr.q21.in&url=https%3A%2F%2Fyogeshgowdagr.q21.in&style=for-the-badge&cacheSeconds=1800)](https://yogeshgowdagr.q21.in)
+[![Blog status](https://img.shields.io/badge/blogs.q21.in-UP-brightgreen?style=for-the-badge)](https://blogs.q21.in) [![Site status](https://img.shields.io/website?label=yogeshgowdagr.q21.in&url=https%3A%2F%2Fyogeshgowdagr.q21.in&style=for-the-badge&cacheSeconds=1800)](https://yogeshgowdagr.q21.in)
 
 I’m a Linux and DevOps engineer currently at **QS (Quacquarelli Symonds)**, previously at **Netzary Infodynamics**. I enjoy automating infrastructure, building monitoring stacks, and writing technical guides.
 
